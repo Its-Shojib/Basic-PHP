@@ -1,3 +1,4 @@
 <?php
-echo "Hello World"
-?>
+
+    $text ="I love to have you";
+    echo "Hello Shojib, $text";
