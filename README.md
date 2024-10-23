@@ -28,7 +28,7 @@ To run the PHP scripts:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Basic-PHP.git
+    git clone https://github.com/its-shojib/Basic-PHP.git
     ```
 2. Navigate to the cloned directory and place the files in your web server's root directory (usually `htdocs` for XAMPP).
 3. Open a browser and navigate to `http://localhost/filename.php` (replace `filename.php` with the specific file you want to run).
@@ -39,4 +39,4 @@ Feel free to fork this repository and submit pull requests if you'd like to cont
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
